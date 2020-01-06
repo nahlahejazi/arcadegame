@@ -11,4 +11,8 @@ How to Play:
 - click on "index.html".
 
 - navigate in the map using the up, down, left, and right arrow keys.
+
+
+Play it https://nahlahejazi.github.io/arcadegame/ 
+
 Enjoy!
