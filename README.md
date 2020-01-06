@@ -1,10 +1,10 @@
 # Arcade Game
 
-#Introduction:
+Introduction:
 
 This a Frond End Nanodgree project game , an implementation of the Frogger game. 
 
-#How to Play:
+How to Play:
 
 - clone and unzip this repo.
 
